@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mahsuni
 - 👀 I’m interested in .NET And Node.js
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .Net
+- 💞️ I’m looking to collaborate on .Net
+- 📫 How to reach me Linkedin
 
 <!---
 mahsuniguler/mahsuniguler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
