@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahsuni
-- 👀 I’m interested in .NET And Node.js
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on .Net
+- 👀 I’m interested in Node.js And Python
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on Node.js
 - 📫 How to reach me Linkedin
 
 <!---
