@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahsuni
-- 👀 I’m interested in Node.js And Python
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.js
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python Data Analysis
+- 💞️ I’m looking to collaborate on Python Data Analysis
 - 📫 How to reach me Linkedin
 
 <!---
